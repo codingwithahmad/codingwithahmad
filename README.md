@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">A junior python developer who love Django framework</h3>
+<h3 align="center">A junior python developer who love the Django framework</h3>
 
 - 🌱 I’m currently learning **Django**
 
